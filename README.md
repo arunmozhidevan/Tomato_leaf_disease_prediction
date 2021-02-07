@@ -98,7 +98,8 @@ Link: https://flight-fare-prediction-amd.herokuapp.com/
 [<img target="_blank" src="https://64.media.tumblr.com/69c6bae50ea35e91495c148922a6176b/666d8646b4207c28-a4/s2048x3072/748e560ff86a10930763bad9aee4aa05f6c66492.png" >](https://flight-fare-prediction-amd.herokuapp.com/)
 
 ## Technologies Used
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" height=50>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" height=50>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" height=50>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/tensorflow/images/lockup.svg" height=50>](https://www.tensorflow.org/)
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" height=50>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/tensorflow/images/lockup.svg" height=50>](https://www.tensorflow.org/) [<img target="_blank" src="https://keras.io/img/logo-small.png" height=50>](https://keras.io/) [<img target="_blank" src="https://numpy.org/doc/stable/_static/numpylogo.svg" height=50>](https://numpy.org/doc/stable/user/index.html) [<img target="_blank" src="https://werkzeug.palletsprojects.com/en/1.0.x/_static/werkzeug.png" height=50>](https://werkzeug.palletsprojects.com/en/1.0.x/)
+
 <br>
 [![made-with-python](https://img.shields.io/badge/made%20with-Python-yellow)](https://www.python.org/) [![made-with-jupyter](https://img.shields.io/badge/made%20with-Jupyter-orange)](https://jupyter.org/)
 
