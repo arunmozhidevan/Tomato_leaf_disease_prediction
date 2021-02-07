@@ -28,7 +28,7 @@ conda install -c conda-forge keras
 ```bash
 conda install -c anaconda pillow
 ```
-## Coding on Jupyter Notebook
+## Coding on Google colab
 
 1. Importing the necessary libraries.
 
