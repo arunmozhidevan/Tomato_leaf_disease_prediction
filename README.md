@@ -30,7 +30,7 @@ conda install -c anaconda pillow
 ```
 ## Coding on Jupyter Notebook
 
-1. Importing the necessary libraries\
+1. Importing the necessary libraries.
 
 2. Re-size all the images to 224x224
 <img target="_blank" src="https://64.media.tumblr.com/522c98f2afe8d5cbcaf9632d69548f42/fa5cfac4f5044686-22/s1280x1920/b654e98e786a0b3931e24a27559c6a8e59d21f56.png">
