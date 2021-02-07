@@ -1,4 +1,4 @@
-# Tomato disease predition using Keras
+# Tomato leaf disease predition using Keras
 Possibly contains awesomeness and Tomato disease predition related files
 
 ## Overview
