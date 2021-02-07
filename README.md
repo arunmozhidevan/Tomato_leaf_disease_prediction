@@ -16,9 +16,17 @@ python -m pip install --upgrade pip
 4. Install cuda and copy and replace the cuDNN files in the cuda folder in your windows C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0
 5. system properties > advanced system settings > environment variables > under system variables > Verify PATH has 'C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin' and 'C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\libnvvp', Note for me its v9.
 6. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html#miniconda) or [Anaconda](https://www.anaconda.com/products/individual)
-7. Install tensorflow-gpun using conda command prompt
+7. Install tensorflow-gpu using conda command prompt
 ```bash
 conda create --name tf_gpu tensorflow-gpu 
+```
+8. Install keras
+```bash
+conda install -c conda-forge keras
+```
+9. Install pillow
+```bash
+conda install -c anaconda pillow
 ```
 ## Coding on Jupyter Notebook
 1. After importing the necessary libraries, load the excel sheet using pandas read_excel
@@ -100,12 +108,16 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 
 ## Directory Tree 
 ```
+├── static
+│   ├── css
+│   │   ├── main.css
+│   ├── js
+│   │   ├── main.js
 ├── templates
 │   ├── home.html
-├── Procfile
 ├── README.md
 ├── app.py
-├── flight_fare_predicition.ipynb
-├── flight_rf.pkl
+├── model_inception.h5
 ├── requirements.txt
+├── tomato.ipynb
 ```
