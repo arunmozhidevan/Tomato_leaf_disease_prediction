@@ -28,6 +28,22 @@ conda install -c conda-forge keras
 ```bash
 conda install -c anaconda pillow
 ```
+
+## Classification
+we have 10 classification of tomato leaf disease. The datasets used here are from kaggle, you can find it [here](https://www.kaggle.com/noulam/tomato).
+```
+├── Tomato___Bacterial_spot
+├── Tomato___Early_blight
+├── Tomato___healthy
+├── Tomato___Late_blight
+├── Tomato___Leaf_Mold
+├── Tomato___Septoria_leaf_spot
+├── Tomato___Spider_mites Two-spotted_spider_mite
+├── Tomato___Target_Spot
+├── Tomato___Tomato_mosaic_virus
+├── Tomato___Tomato_Yellow_Leaf_Curl_Virus
+```
+
 ## Coding on Google colab
 
 1. Importing the necessary libraries.
