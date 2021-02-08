@@ -57,7 +57,9 @@ conda install -c anaconda pillow
 <img target="_blank" src="https://64.media.tumblr.com/ec6dd568b973b8984eb219f08b9e3c00/5da56777df81066d-e1/s1280x1920/f6871a8130971d540f83574a815b6dbe93a81100.png">
 
 ## Demo
+[<img target="_blank" src="https://64.media.tumblr.com/acbfbd0d8e3fd727f06529acf8170892/960ca4f847eb658e-dd/s1280x1920/7cf1580b82948b22fd889faafb39770764f95440.png" height=50>]
 
+[<img target="_blank" src="https://64.media.tumblr.com/9d6c747f9b4cf098660791a947ea5cba/960ca4f847eb658e-09/s1280x1920/56cc60abd93a13f4d725ba06150f5a0511c43e53.png" height=50>]
 
 ## Technologies Used
 [<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/tensorflow/images/lockup.svg" height=50>](https://www.tensorflow.org/) [<img target="_blank" src="https://keras.io/img/logo-small.png" height=50>](https://keras.io/) [<img target="_blank" src="https://numpy.org/doc/stable/_static/numpylogo.svg" height=50>](https://numpy.org/doc/stable/user/index.html) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" height=50>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://werkzeug.palletsprojects.com/en/1.0.x/_static/werkzeug.png" height=50>](https://werkzeug.palletsprojects.com/en/1.0.x/)
