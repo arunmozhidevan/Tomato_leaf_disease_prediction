@@ -56,11 +56,10 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 <img target="_blank" src="https://64.media.tumblr.com/fe24a611adb4066146059a7b22dbc3f3/d25520b80d2fbb17-6c/s1280x1920/2fd6d7ce5f881b3b6ad745521a1ca5dea834b374.png">
 
 12.
-<img target="_blank" src="https://64.media.tumblr.com/4972dce49a38af2acc89a16ffee3fbd7/d25520b80d2fbb17-7b/s1280x1920/cd3bbdf00d8a523bb2b8defb3b205d92a13bfb26.png">
-
-13.
 <img target="_blank" src="https://64.media.tumblr.com/a8aa77cd841affb58843efa434e209de/d25520b80d2fbb17-31/s1280x1920/37e0bb04d0081a04198d21ba188678e42062bdbf.png">
 
+13.
+<img target="_blank" src="https://64.media.tumblr.com/4972dce49a38af2acc89a16ffee3fbd7/d25520b80d2fbb17-7b/s1280x1920/cd3bbdf00d8a523bb2b8defb3b205d92a13bfb26.png">
 
 ## Demo
 <img target="_blank" src="https://64.media.tumblr.com/acbfbd0d8e3fd727f06529acf8170892/960ca4f847eb658e-dd/s1280x1920/7cf1580b82948b22fd889faafb39770764f95440.png">
