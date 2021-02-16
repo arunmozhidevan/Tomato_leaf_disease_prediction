@@ -21,7 +21,7 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 ├── Tomato___Tomato_Yellow_Leaf_Curl_Virus
 ```
 
-## Coding on Google colab
+## Coded on Kaggle notebook
 1. Importing the essential libraries.
 <img target="_blank" src="https://64.media.tumblr.com/2653f8f5c8160b76e7e8732d8eac292d/f4b26b63d9bd44e6-0d/s1280x1920/f4f74f272de831eeaa3e1c01ccf769701569938f.png">
 
