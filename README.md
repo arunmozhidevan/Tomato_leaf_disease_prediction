@@ -1,5 +1,5 @@
-# Tomato leaf disease predition using Keras
-Possibly contains awesomeness and Tomato disease predition related files
+# Tomato leaf disease prediction using Keras
+Possibly contains awesomeness and Tomato disease prediction related files
 
 ## Overview
 This is a Flask web app which predicts the Tomato plant diseases which developed using python(Jupyter Notebook).
