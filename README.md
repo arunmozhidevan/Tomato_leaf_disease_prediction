@@ -35,19 +35,19 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 <img target="_blank" src="https://64.media.tumblr.com/c6f5dc2b1a502ff598c6f08580b65e91/f4b26b63d9bd44e6-15/s1280x1920/dba9d802fc3aec1a997ba1f737e9dc1e5f67faf2.png">
 
 5.
-<img target="_blank" src="https://64.media.tumblr.com/f7e543601e1ef7dd2ce920ba84c6ac60/1dea12d48a35a1f9-5f/s1280x1920/cd6cc0735b9080c95e02695adb65b4a5ca14c72a.png">
-
-6.
-<img target="_blank" src="https://64.media.tumblr.com/6efc9f32be266f2b2954ef69fa22eb32/1dea12d48a35a1f9-6b/s1280x1920/08a745ae1b6bf304be5060860d41fcd22820f0fc.png">
-
-7.
 <img target="_blank" src="https://64.media.tumblr.com/628903ae3d2d4d084c0a67af20c8f883/1dea12d48a35a1f9-0f/s1280x1920/3d4594dcafa07bc09c699d22d7891991537ac60b.png">
 
+6.
+<img target="_blank" src="https://64.media.tumblr.com/e51a26404f241d06224b840d80a8e93a/1dea12d48a35a1f9-2e/s1280x1920/7514f6dd83f00c75fd9906e00a48c107f5c7b7db.png">
+
+7.
+<img target="_blank" src="https://64.media.tumblr.com/f7e543601e1ef7dd2ce920ba84c6ac60/1dea12d48a35a1f9-5f/s1280x1920/cd6cc0735b9080c95e02695adb65b4a5ca14c72a.png">
+
 8.
-<img target="_blank" src="https://64.media.tumblr.com/ed8148e0dc0423df13e28fba914851fa/d25520b80d2fbb17-18/s1280x1920/74f46e16091b1378c2c7179b40f4e4af1328f2b5.png">
+<img target="_blank" src="https://64.media.tumblr.com/6efc9f32be266f2b2954ef69fa22eb32/1dea12d48a35a1f9-6b/s1280x1920/08a745ae1b6bf304be5060860d41fcd22820f0fc.png">
 
 9.
-<img target="_blank" src="https://64.media.tumblr.com/e51a26404f241d06224b840d80a8e93a/1dea12d48a35a1f9-2e/s1280x1920/7514f6dd83f00c75fd9906e00a48c107f5c7b7db.png">
+<img target="_blank" src="https://64.media.tumblr.com/ed8148e0dc0423df13e28fba914851fa/d25520b80d2fbb17-18/s1280x1920/74f46e16091b1378c2c7179b40f4e4af1328f2b5.png">
 
 10.
 <img target="_blank" src="https://64.media.tumblr.com/3e1e4ebb5f637d893c1208e26802a7cf/d25520b80d2fbb17-4e/s1280x1920/529c6ec11242faa5fe00c76b7d8c42ef767ce78b.png">
