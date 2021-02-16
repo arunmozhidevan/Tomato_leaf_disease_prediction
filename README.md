@@ -44,10 +44,10 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 <img target="_blank" src="https://64.media.tumblr.com/628903ae3d2d4d084c0a67af20c8f883/1dea12d48a35a1f9-0f/s1280x1920/3d4594dcafa07bc09c699d22d7891991537ac60b.png">
 
 8.
-<img target="_blank" src="https://64.media.tumblr.com/e51a26404f241d06224b840d80a8e93a/1dea12d48a35a1f9-2e/s1280x1920/7514f6dd83f00c75fd9906e00a48c107f5c7b7db.png">
+<img target="_blank" src="https://64.media.tumblr.com/ed8148e0dc0423df13e28fba914851fa/d25520b80d2fbb17-18/s1280x1920/74f46e16091b1378c2c7179b40f4e4af1328f2b5.png">
 
 9.
-<img target="_blank" src="https://64.media.tumblr.com/ed8148e0dc0423df13e28fba914851fa/d25520b80d2fbb17-18/s1280x1920/74f46e16091b1378c2c7179b40f4e4af1328f2b5.png">
+<img target="_blank" src="https://64.media.tumblr.com/e51a26404f241d06224b840d80a8e93a/1dea12d48a35a1f9-2e/s1280x1920/7514f6dd83f00c75fd9906e00a48c107f5c7b7db.png">
 
 10.
 <img target="_blank" src="https://64.media.tumblr.com/3e1e4ebb5f637d893c1208e26802a7cf/d25520b80d2fbb17-4e/s1280x1920/529c6ec11242faa5fe00c76b7d8c42ef767ce78b.png">
@@ -56,10 +56,10 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 <img target="_blank" src="https://64.media.tumblr.com/fe24a611adb4066146059a7b22dbc3f3/d25520b80d2fbb17-6c/s1280x1920/2fd6d7ce5f881b3b6ad745521a1ca5dea834b374.png">
 
 12.
-<img target="_blank" src="https://64.media.tumblr.com/a8aa77cd841affb58843efa434e209de/d25520b80d2fbb17-31/s1280x1920/37e0bb04d0081a04198d21ba188678e42062bdbf.png">
+<img target="_blank" src="https://64.media.tumblr.com/4972dce49a38af2acc89a16ffee3fbd7/d25520b80d2fbb17-7b/s1280x1920/cd3bbdf00d8a523bb2b8defb3b205d92a13bfb26.png">
 
 13.
-<img target="_blank" src="https://64.media.tumblr.com/4972dce49a38af2acc89a16ffee3fbd7/d25520b80d2fbb17-7b/s1280x1920/cd3bbdf00d8a523bb2b8defb3b205d92a13bfb26.png">
+<img target="_blank" src="https://64.media.tumblr.com/a8aa77cd841affb58843efa434e209de/d25520b80d2fbb17-31/s1280x1920/37e0bb04d0081a04198d21ba188678e42062bdbf.png">
 
 ## Demo
 <img target="_blank" src="https://64.media.tumblr.com/acbfbd0d8e3fd727f06529acf8170892/960ca4f847eb658e-dd/s1280x1920/7cf1580b82948b22fd889faafb39770764f95440.png">
