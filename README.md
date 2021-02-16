@@ -4,7 +4,7 @@ Possibly contains awesomeness and Tomato disease prediction related files
 ## Overview
 This is a Flask web app which predicts the Tomato plant diseases which developed using python(Jupyter Notebook).
 
-## Installation
+## Installation (if you're using Jupyter)
 Here The Code is written in Python 3.6 using tensorflow_gpu-1.12.0 with cuda 9.0 and cuDNN 7.6.5 for GPU programming.
 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip, navigate into the installed python directory and open command promt:
 ```bash
