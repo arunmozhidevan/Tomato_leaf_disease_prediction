@@ -20,34 +20,34 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 ├── Tomato___Tomato_mosaic_virus
 ├── Tomato___Tomato_Yellow_Leaf_Curl_Virus
 ```
-Bacterial leaf spot <br>
+1. Bacterial leaf spot <br>
 <img target="_blank" src="https://64.media.tumblr.com/8230b8fdcb9aae40d2226ad81293eaa4/818c76b468486cd4-33/s400x600/46ee0e63515008e750b78d91c94618acf134de81.png">
 
-Early blight
+2. Early blight<br>
 <img target="_blank" src="https://64.media.tumblr.com/7133efcbcfaa9a73e09694f535551935/60875737a88cf4a3-05/s400x600/2ddd83685f1df0b5650f53cd8c026d70ce130333.png">
 
-Healthy
+3. Healthy<br>
 <img target="_blank" src="https://64.media.tumblr.com/dc944f6150a2eafa9df80eddbda62ae2/4a1fa647137c377c-be/s400x600/ccdfd3f1095918d8639318fbd58ae9b10de8168c.png">
 
-Late blight
+4. Late blight<br>
 <img target="_blank" src="https://64.media.tumblr.com/bf55da9bec41aac6fe86e1c7cc7e1395/decd44a2c574b035-6e/s400x600/fb011146eb72a9e7503c41e053a7b0f9b6e53fd3.png">
 
-Leaf Mold
+5. Leaf Mold<br>
 <img target="_blank" src="https://64.media.tumblr.com/fd46207c550a6f252e8622bea86149b4/f49d77f13d1f1aaf-4e/s400x600/2c7ad24081d12e02467c5e10ada8da683bfe2483.png">
 
-Septoria leaf spot
+6. Septoria leaf spot<br>
 <img target="_blank" src="https://64.media.tumblr.com/6d3494411082db7d00454f19a8e08941/bc626da6a4ba077b-56/s400x600/fa9d2ce125468355cc401e16dcd4e2c4bf3c7fb7.png">
 
-Two-spotted spider mite
+7. Two-spotted spider mite<br>
 <img target="_blank" src="https://64.media.tumblr.com/bb1cb4fa98aff8088f20c8b81a084714/e64c6a41ee4f80b3-ec/s400x600/afa03f4da5feda6f662bb4f683bcce7438611a77.png">
 
-Target Spot
+8. Target Spot<br>
 <img target="_blank" src="https://64.media.tumblr.com/56e4422683995807502b15eba9770437/ce8cb92df5bcb454-da/s400x600/51d02ccab6c871655001f4ae4462aa2be103f68a.png">
 
-Mosaic virus
+9. Mosaic virus<br>
 <img target="_blank" src="https://64.media.tumblr.com/866b9cd688e7d84b65353d071c5d667c/df067f4bf4ec75ac-4a/s400x600/5d1bcf193334e96b1cdc90d4f5936472fb5e1c6e.png">
 
-Yellow Leaf Curl Virus
+10. Yellow Leaf Curl Virus<br>
 <img target="_blank" src="https://64.media.tumblr.com/a63357c6d4eaff57f97d45665a4939a4/902957b75b8cf86c-3b/s400x600/304dd101d0f52ff4f744d0acafbd4b0c2201c10a.png">
 
 ## Coded on Kaggle notebook
