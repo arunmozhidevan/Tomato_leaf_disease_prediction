@@ -3,7 +3,7 @@
 ## Overview
 This is a Flask web application where you can upload images of a tomato leaf to predict disease. The diseases are classified into ten categories, as follows
 
-### Classification
+**Classification** <br>
 we have 10 classification of tomato leaf disease. The datasets used here are from kaggle, you can find it [here](https://www.kaggle.com/noulam/tomato).
 ```
 ├── Tomato___Bacterial_spot
