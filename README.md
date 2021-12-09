@@ -1,10 +1,9 @@
 # Tomato leaf disease prediction using Keras
 
 ## Overview
-This is a Flask web application where you can upload images of a tomato leaf to predict disease. The diseases are classified into ten categories, as follows
+This is a Flask web application where you can upload images of a tomato leaf to predict disease. The datasets used here in this project are taken from Kaggle; you can find them [here](https://www.kaggle.com/noulam/tomato). The diseases are classified into ten categories, as follows
 
 **Classification** <br>
-we have 10 classification of tomato leaf disease. The datasets used here are from kaggle, you can find it [here](https://www.kaggle.com/noulam/tomato).
 ```
 ├── Tomato___Bacterial_spot
 ├── Tomato___Early_blight
