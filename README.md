@@ -20,7 +20,7 @@ we have 10 classification of tomato leaf disease. The datasets used here are fro
 ├── Tomato___Tomato_mosaic_virus
 ├── Tomato___Tomato_Yellow_Leaf_Curl_Virus
 ```
-Bacterial leaf spot
+Bacterial leaf spot <br>
 <img target="_blank" src="https://64.media.tumblr.com/8230b8fdcb9aae40d2226ad81293eaa4/818c76b468486cd4-33/s400x600/46ee0e63515008e750b78d91c94618acf134de81.png">
 
 Early blight
